@@ -1,5 +1,5 @@
 <!-- ### Hi 👋 -->
-###Hello World
+Hello World!
 ![](https://github.com/zulfiya-yumagulova/zulfiya-yumagulova/blob/main/banner.jpg)
 
 I'm from London, and I'm  a Junior Web Developer graduated from School Of Code Bootcamp. I am passionate with design, coding and learning. I am ready to join to a team to improve  my Development Skill
