@@ -2,7 +2,7 @@
 # Hello World!
 ![](https://github.com/zulfiya-yumagulova/zulfiya-yumagulova/blob/main/banner.jpg)
 
-I am passionate web developer, who enjoys problem solving and being challanged. I am curious how things works and never miss an opportunity to learn and develop myself.
+I am a passionate web developer, who enjoys problem solving and being challanged. I am curious how things work and never miss an opportunity to learn and develop myself.
 
 ## Skills:   JS / HTML / CSS / React / Node.js / Express.js / PostgreSQL 
 
