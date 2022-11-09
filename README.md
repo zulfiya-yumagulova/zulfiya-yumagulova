@@ -2,7 +2,7 @@
 # Hello World!
 ![](https://github.com/zulfiya-yumagulova/zulfiya-yumagulova/blob/main/banner.jpg)
 
-I'm from London, and I'm  a Junior Web Developer graduated from School Of Code Bootcamp. I am passionate with design, coding and learning. I am ready to join to a team to improve  my Development Skill
+I am passionate web developer, who enjoys problem solving and being challanged. I am curious how things works and never miss an opportunity to learn and develop myself.
 
 ## Skills:   JS / HTML / CSS / React / Node.js / Express.js / PostgreSQL 
 
