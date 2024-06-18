@@ -1,10 +1,8 @@
 <!-- ### Hi 👋 -->
 # Hello World!
-![](https://github.com/zulfiya-yumagulova/zulfiya-yumagulova/blob/main/banner.jpg)
+I am Zulfiya Softaware Developer
 
-I am a passionate web developer, who enjoys problem solving and being challanged. I am curious how things work and never miss an opportunity to learn and develop myself.
-
-## Skills:   JS / HTML / CSS / React / Node.js / Express.js / PostgreSQL 
+## Skills:   JS / HTML / CSS / React / Node.js / Express.js / MongoDB
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfiya-yumagulova)](https://github.com/anuraghazra/github-readme-stats)
 
