@@ -1,8 +1,8 @@
 <!-- ### Hi 👋 -->
-# Hello World!
-I am Zulfiya Softaware Developer
 
-## Skills:   JS / HTML / CSS / React / Node.js / Express.js / MongoDB
+#I am Zulfiya Junior Developer @Eurostar
+
+## Skills:   JS / HTML / CSS / React / Node.js / Express.js / MongoDB / Typescript / Nextjs 
 
 
 
